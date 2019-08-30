@@ -86,3 +86,59 @@ header nav ul li a:hover {
 }
 
 /* Press */
+#press {
+  background-color: #000;
+  width: 100%;
+}
+
+#press h2 {
+  font-size: 55px;
+  text-align: center;
+  color: #FFF;
+  padding: 15px;
+}
+
+#press img {
+  padding-bottom: 15px;
+}
+
+#press h3 {
+  font-size: 45px;
+  color: #FFF;
+  padding-bottom: 15px;
+}
+
+#press p {
+  color: #FFF;
+  font-size: 20px;
+  line-height: 30px;
+  padding-bottom: 15px;
+}
+
+/* Image Gallery */
+#image-gallery {
+  width: 100%;
+}
+
+#image-gallery h2 {
+  font-size: 55px;
+}
+
+/* Footer */
+footer {
+  background-color: #000;
+  width: 100%;
+}
+
+footer p {
+  font-size: 18px;
+  color: #FFF;
+}
+
+footer nav ul li a i {
+  color: #FFF;
+}
+
+footer nav ul li a i:hover {
+  color: blue;
+}

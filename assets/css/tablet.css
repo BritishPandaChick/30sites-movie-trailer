@@ -1,0 +1,54 @@
+/* Base Styles */
+body {
+  font-family: "Arial";
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Header */
+header {
+  background-image: url("https://www.techadvisor.co.uk/cmsdata/features/3695147/rise_of_skywalker_title_thumb800.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 350px;
+}
+
+header nav ul li a {
+  font-size: 20px;
+  color: #FFF;
+}
+
+header nav ul li a:hover {
+  color: blue;
+}
+
+/* Trailer */
+#trailer {
+  width: 100%;
+}
+
+#trailer iframe {
+  width: 100%;
+  height: 500px;
+}
+
+/* Summary */
+#summary {
+  width: 100%;
+  padding: 15px;
+  border: 2px solid red;
+}
+
+#summary p {
+  font-size: 20px;
+  line-height: 30px;
+  color: #333;
+}
+
+#summary img {
+  padding-top: 20px;
+  height: 900px;
+}
